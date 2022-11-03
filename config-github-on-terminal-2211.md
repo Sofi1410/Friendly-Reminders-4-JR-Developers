@@ -35,4 +35,13 @@ Then go to your GitHub account and add the SSH key.
 + else ... cry.
 
 
+### UPDATE: Problem when keeps asking for credentials while cloning
+If keeps asking for your username and password (even if you enter the right information won+t work) is because youa re clonning the repo using th HTTP instead use the SSH options and all problems should be fix :) 
+
+`git clone git@github.com:user/repo.git`
+
+
+
+
+
 🐼 :_Best, [Sofi](https://github.com/Sofi1410)_
